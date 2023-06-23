@@ -1,0 +1,20 @@
+@import './components/footer.scss';
+@import './components/login.scss';
+@import './components/home.scss';
+@import './components/search.scss';
+@import './components/navBar.scss';
+@import './components/pricingSection.scss';
+
+
+* {
+    font-family: "Kanit", sans-serif;
+    margin: 0;
+  }
+  
+.App {
+    margin: 0px;
+    padding: 0px;
+    background-image: url("../image/background.png");
+    background-size: cover;
+  }
+  
